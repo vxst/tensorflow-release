@@ -1,4 +1,4 @@
 # Tensorflow release
-VXST's build of tensorflow
+VXST's build of Tensorflow release
 
- * ARM64-Linux-PY39
+ * Tensorflow v2.4.1 for aarch64 and python 3.9
